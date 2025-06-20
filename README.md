@@ -1,1 +1,1 @@
-# spatially_explicit_simulations_for_occupancy_based_monitoring
+# Spatially explicit simulations for multi-species occupancy based monitoring
